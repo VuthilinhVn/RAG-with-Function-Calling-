@@ -1,0 +1,8 @@
+openai
+langchain==0.1.14
+langchain-community==0.0.19
+faiss-cpu
+python-dotenv
+tiktoken
+flask
+flask-cors
